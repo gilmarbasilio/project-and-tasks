@@ -1,0 +1,17 @@
+{
+  "name": "project-and-tasks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gilmarbasilio/project-and-tasks.git",
+  "author": "Gilmar Basilio <gilmar.basilio@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
